@@ -53,7 +53,6 @@ I’m passionate about creating systems that are scalable, maintainable, and pro
 
 ### Backend Systems
 
-- [Prajaakeeya Backend](https://github.com/BharatJogi777/prajaakeeya-backend) — A Node.js and NestJS REST API for a civic-engagement platform, built as a modular monolith with PostgreSQL, Redis, JWT authentication, and AWS storage integrations.
 - [Go Order Service](https://github.com/BharatJogi777/go_order_service) — A Go REST API built with Gin and PostgreSQL, using a layered controller, service, and repository architecture.
 - [Simple Bank](https://github.com/BharatJogi777/simplebank) — A Go backend service project covering account management, transaction-safe transfers, REST and gRPC APIs, background workers, and deployment.
 - [Production FastAPI Boilerplate](https://github.com/BharatJogi777/production_fastapi_boilerplate) — A starter for building scalable, production-oriented FastAPI services.
