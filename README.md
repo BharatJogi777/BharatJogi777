@@ -1,6 +1,6 @@
 # Hi, I'm Bharat Jogi 👋
 
-### DevOps Engineer | Backend Developer | AI Enthusiast
+### Backend Developer | DevOps Engineer  | AI Enthusiast
 
 I build reliable software systems with a strong focus on cloud-native engineering, backend development, automation, and AI-powered solutions.
 
