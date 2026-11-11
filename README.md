@@ -1,6 +1,6 @@
 # Hi, I'm Bharat Jogi 👋
 
-### Backend Developer | AI Agent & RAG Engineer | DevOps Engineer
+### Senior Backend Developer | Architect | AI Agent & RAG Engineer | DevOps Engineer
 
 I build reliable backend systems and AI-powered applications, with a focus on agent workflows, retrieval-augmented generation, and production-ready APIs.
 
